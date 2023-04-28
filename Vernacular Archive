@@ -1,0 +1,417 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Vernacular Archive</title>
+	<link rel="stylesheet" href="https://use.typekit.net/oht5ori.css">
+		<link rel="icon"  href="favicon.ico">
+	
+	<style>
+* {
+  box-sizing: border-box;
+	padding-left: 8px;
+	padding-right: 8px;
+	padding-bottom: 12px;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  padding-left: 2px;
+	padding-right: 2px;
+}
+
+.column img {
+ 
+  cursor: pointer; 
+}
+
+
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+}
+
+</style>
+	
+</head>
+
+<body style="background-color: black">
+	<h1 style="color:white; text-align: left;font-family:contralto-big; font-display:auto;font-style:oblique;font-weight:300;font-stretch:normal; font-size: 36px;padding-left: 14px"><a style="text-decoration: none; color: white" href="index.html"> Collective </a></h1>
+<p style="color:white; text-align: center; font-family:indivisible; font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;">Vernacular Archive
+	</p>
+	
+	<br>
+	
+	
+<div class="row">
+  <div class="column">
+	  <a href="images/people1.png" target="_blank">
+    <img src="images/people1.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people2.png" target="_blank">
+		  <img src="images/people2.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people3.png" target="_blank">
+	  <img src="images/people3.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people4.png" target="_blank">
+	  <img src="images/people4.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people5.png" target="_blank">
+	    <img src="images/people5.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people6.png" target="_blank">
+	    <img src="images/people6.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people7.png" target="_blank">
+	    <img src="images/people7.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people8.png" target="_blank">
+	    <img src="images/people8.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people9.png" target="_blank">
+	    <img src="images/people9.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people10.png" target="_blank">
+	    <img src="images/people10.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people11.png" target="_blank">
+	    <img src="images/people11.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people12.png" target="_blank">
+	    <img src="images/people12.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people13.png" target="_blank">
+	    <img src="images/people13.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people61.png" target="_blank">
+	  <img src="images/people61.png" alt="" style="width:100%" ></a>
+	
+	  <a href="images/people62.png" target="_blank">
+	<img src="images/people62.png" alt="" style="width:100%" ></a>
+	
+	  <a href="images/people63.png" target="_blank">
+	<img src="images/people63.png" alt="" style="width:100%" ></a>
+	
+	  <a href="images/people64.png" target="_blank">
+	<img src="images/people64.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people65.png" target="_blank">
+<img src="images/people65.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people66.png" target="_blank">
+<img src="images/people66.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people67.png" target="_blank">
+<img src="images/people67.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people68.png" target="_blank">
+<img src="images/people68.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people69.png" target="_blank">
+<img src="images/people69.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people70.png" target="_blank">
+<img src="images/people70.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people71.png" target="_blank">
+<img src="images/people71.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people72.png" target="_blank">
+<img src="images/people72.png" alt="" style="width:100%" ></a>
+
+  </div>
+	
+  <div class="column">
+	  <a href="images/people16.png" target="_blank">
+    <img src="images/people16.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people17.png" target="_blank">
+	  <img src="images/people17.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people18.png" target="_blank">
+	  <img src="images/people18.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people19.png" target="_blank">
+	  <img src="images/people19.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people20.png" target="_blank">
+	  <img src="images/people20.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people21.png" target="_blank">
+	  <img src="images/people21.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people22.png" target="_blank">
+	  <img src="images/people22.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people23.png" target="_blank">
+	  <img src="images/people23.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people24.png" target="_blank">
+	  <img src="images/people24.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people25.png" target="_blank">
+	  <img src="images/people25.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people26.png" target="_blank">
+	  <img src="images/people26.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people27.png" target="_blank">
+	  <img src="images/people27.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people28.png" target="_blank">
+	  <img src="images/people28.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people29.png" target="_blank">
+	  <img src="images/people29.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people30.png" target="_blank">
+	  <img src="images/people30.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people15.png" target="_blank">
+	  <img src="images/people15.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people73.png" target="_blank">
+	  <img src="images/people73.png" alt="" style="width:100%" ></a>
+	
+	  <a href="images/people74.png" target="_blank">
+	<img src="images/people74.png" alt="" style="width:100%" ></a>
+	
+	  <a href="images/people75.png" target="_blank">
+	<img src="images/people75.png" alt="" style="width:100%" ></a>
+	
+	  <a href="images/people77.png" target="_blank">
+	<img src="images/people77.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people78.png" target="_blank">
+<img src="images/people78.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people79.png" target="_blank">
+<img src="images/people79.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people80.png" target="_blank">
+<img src="images/people80.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people81.png" target="_blank">
+<img src="images/people81.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people82.png" target="_blank">
+<img src="images/people82.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people83.png" target="_blank">
+<img src="images/people83.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people84.png" target="_blank">
+<img src="images/people84.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people85.png" target="_blank">
+<img src="images/people85.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people100.png" target="_blank">
+<img src="images/people100.png" alt="" style="width:100%" ></a>
+	  
+  </div>
+	
+  <div class="column">
+	  <a href="images/people31.png" target="_blank">
+    <img src="images/people31.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people32.png" target="_blank">
+	  <img src="images/people32.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people33.png" target="_blank">
+	  <img src="images/people33.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people34.png" target="_blank">
+	  <img src="images/people34.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people35.png" target="_blank">
+	  <img src="images/people35.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people36.png" target="_blank">
+	  <img src="images/people36.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people37.png" target="_blank">
+	  <img src="images/people37.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people38.png" target="_blank">
+	  <img src="images/people38.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people39.png" target="_blank">
+	  <img src="images/people39.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people40.png" target="_blank">
+	  <img src="images/people40.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people41.png" target="_blank">
+	  <img src="images/people41.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people42.png" target="_blank">
+	  <img src="images/people42.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people43.png" target="_blank">
+	  <img src="images/people43.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people44.png" target="_blank">
+	  <img src="images/people44.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people45.png" target="_blank">
+	  <img src="images/people45.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people14.png" target="_blank">
+	  <img src="images/people14.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people86.png" target="_blank">
+	  <img src="images/people86.png" alt="" style="width:100%" ></a>
+	
+	  <a href="images/people87.png" target="_blank">
+	<img src="images/people87.png" alt="" style="width:100%" ></a>
+	
+	  <a href="images/people88.png" target="_blank">
+	<img src="images/people88.png" alt="" style="width:100%" ></a>
+	
+	  <a href="images/people89.png" target="_blank">
+	<img src="images/people89.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people90.png" target="_blank">
+<img src="images/people90.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people91.png" target="_blank">
+<img src="images/people91.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people92.png" target="_blank">
+<img src="images/people92.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people94.png" target="_blank">
+<img src="images/people94.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people93.png" target="_blank">
+<img src="images/people93.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people95.png" target="_blank">
+<img src="images/people95.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people96.png" target="_blank">
+<img src="images/people96.png" alt="" style="width:100%" ></a>
+
+
+  </div>
+	
+  <div class="column">
+	   <a href="images/people46.png" target="_blank">
+    <img src="images/people46.png" alt="" style="width:100%" ></a>
+	  
+	   <a href="images/people47.png" target="_blank">
+	  <img src="images/people47.png" alt="" style="width:100%" ></a>
+	  
+	   <a href="images/people48.png" target="_blank">
+	  <img src="images/people48.png" alt="" style="width:100%" ></a>
+	  
+	   <a href="images/people49.png" target="_blank">
+	  <img src="images/people49.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people50.png" target="_blank">
+	  <img src="images/people50.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people51.png" target="_blank">
+	  <img src="images/people51.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people52.png" target="_blank">
+	  <img src="images/people52.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people53.png" target="_blank">
+	  <img src="images/people53.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people54.png" target="_blank">
+	  <img src="images/people54.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people55.png" target="_blank">
+	  <img src="images/people55.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people56.png" target="_blank">
+	  <img src="images/people56.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people57.png" target="_blank">
+	  <img src="images/people57.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people58.png" target="_blank">
+	  <img src="images/people58.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people59.png" target="_blank">
+	  <img src="images/people59.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people60.png" target="_blank">
+	  <img src="images/people60.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/people98.png" target="_blank">
+	  <img src="images/people98.png" alt="" style="width:100%" ></a>
+	
+	  <a href="images/people99.png" target="_blank">
+	<img src="images/people99.png" alt="" style="width:100%" ></a>
+	
+	  <a href="images/people101.png" target="_blank">
+	<img src="images/people101.png" alt="" style="width:100%" ></a>
+	
+	  <a href="images/people102.png" target="_blank">
+	<img src="images/people102.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people103.png" target="_blank">
+<img src="images/people103.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people104.png" target="_blank">
+<img src="images/people104.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people105.png" target="_blank">
+<img src="images/people105.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people106.png" target="_blank">
+<img src="images/people106.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people107.png" target="_blank">
+<img src="images/people107.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people108.png" target="_blank">
+<img src="images/people108.png" alt="" style="width:100%" ></a>
+
+	  <a href="images/people109.png" target="_blank">
+<img src="images/people109.png" alt="" style="width:100%" ></a>
+
+ <a href="images/people97.png" target="_blank">
+<img src="images/people97.png" alt="" style="width:100%" ></a>
+
+  </div>
+	<br> 
+
+	<br>
+	
+</div>
+
+
+
+
+<script>
+function myFunction(imgs) {
+  var expandImg = document.getElementById("expandedImg");
+  var imgText = document.getElementById("imgtext");
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = "block";
+}
+</script>
+ 
+	
+
+</body>
+	
+</html>
