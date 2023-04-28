@@ -1,0 +1,368 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Travel Archive</title>
+	<link rel="stylesheet" href="https://use.typekit.net/oht5ori.css">
+		<link rel="icon"  href="favicon.ico">
+	
+		<style>
+* {
+  box-sizing: border-box;
+	padding-left: 8px;
+	padding-right: 8px;
+	padding-bottom: 12px;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  padding-left: 2px;
+	padding-right: 2px;
+}
+
+.column img {
+ 
+  cursor: pointer; 
+}
+
+
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+}
+</style>
+	
+</head>
+
+<body style="background-color: black">
+	<h1 style="color:white; text-align: left;font-family:contralto-big; font-display:auto;font-style:oblique;font-weight:300;font-stretch:normal; font-size: 36px;padding-left: 14px"><a style="text-decoration: none; color: white" href="index.html"> Collective </a></h1>
+	
+	<p style="color:white; text-align: center; font-family:indivisible; font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;">Travel Archive
+	</p>
+	
+	<br>
+	
+<div class="row">
+  <div class="column">
+	  <a href="images/travel1.png" target="_blank">
+	  <img src="images/travel1.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel2.png" target="_blank">
+	  <img src="images/travel2.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel3.png" target="_blank">
+	   <img src="images/travel3.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel4.png" target="_blank">
+	  <img src="images/travel4.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel5.png" target="_blank">
+	  <img src="images/travel5.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel13.png" target="_blank">
+	  <img src="images/travel13.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel6.png" target="_blank">
+	  <img src="images/travel6.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel7.png" target="_blank">
+	  <img src="images/travel7.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel8.png" target="_blank">
+	  <img src="images/travel8.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel9.png" target="_blank">
+	  <img src="images/travel9.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel10.png" target="_blank">
+	  <img src="images/travel10.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel11.png" target="_blank">
+	  <img src="images/travel11.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel12.png" target="_blank">
+	  <img src="images/travel12.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel14.png" target="_blank">
+	  <img src="images/travel14.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel15.png" target="_blank">
+	  <img src="images/travel15.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel16.png" target="_blank">
+	  <img src="images/travel16.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel17.png" target="_blank">
+	  <img src="images/travel17.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel18.png" target="_blank">
+	  <img src="images/travel18.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel19.png" target="_blank">
+	  <img src="images/travel19.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel20.png" target="_blank">
+	  <img src="images/travel20.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel21.png" target="_blank">
+	  <img src="images/travel21.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel22.png" target="_blank">
+	  <img src="images/travel22.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel25.png" target="_blank">
+	  <img src="images/travel25.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel94.png" target="_blank">
+	  <img src="images/travel94.png" alt="" style="width:100%" ></a>
+
+  </div>
+	
+  <div class="column">
+	  <a href="images/travel23.png" target="_blank">
+		  <img src="images/travel23.png" alt="" style="width:100%" ></a>
+	  
+		<a href="images/travel26.png" target="_blank">
+	  <img src="images/travel26.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel27.png" target="_blank">
+	   <img src="images/travel27.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel29.png" target="_blank">
+	  <img src="images/travel29.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel30.png" target="_blank">
+	  <img src="images/travel30.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel31.png" target="_blank">
+	  <img src="images/travel31.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel32.png" target="_blank">
+	  <img src="images/travel32.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel33.png" target="_blank">
+	  <img src="images/travel33.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel34.png" target="_blank">
+	  <img src="images/travel34.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel35.png" target="_blank">
+	  <img src="images/travel35.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel36.png" target="_blank">
+	  <img src="images/travel36.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel37.png" target="_blank">
+	  <img src="images/travel37.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel38.png" target="_blank">
+	  <img src="images/travel38.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel39.png" target="_blank">
+	  <img src="images/travel39.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel40.png" target="_blank">
+	  <img src="images/travel40.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel41.png" target="_blank">
+	  <img src="images/travel41.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel42.png" target="_blank">
+	  <img src="images/travel42.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel43.png" target="_blank">
+	  <img src="images/travel43.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel44.png" target="_blank">
+	  <img src="images/travel44.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel45.png" target="_blank">
+	  <img src="images/travel45.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel46.png" target="_blank">
+	  <img src="images/travel46.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel47.png" target="_blank">
+	  <img src="images/travel47.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel48.png" target="_blank">
+	  <img src="images/travel48.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel91.png" target="_blank">
+	  <img src="images/travel91.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel92.png" target="_blank">
+	  <img src="images/travel92.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel93.png" target="_blank">
+	  <img src="images/travel93.png" alt="" style="width:100%" ></a>
+	  
+	 
+  </div>
+	
+  <div class="column">
+	  <a href="images/travel24.png" target="_blank">
+	  <img src="images/travel24.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel47.png" target="_blank">
+   <img src="images/travel47.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel49.png" target="_blank">
+	   <img src="images/travel49.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel50.png" target="_blank">
+	  <img src="images/travel50.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel51.png" target="_blank">
+	  <img src="images/travel51.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel52.png" target="_blank">
+	  <img src="images/travel52.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel53.png" target="_blank">
+	  <img src="images/travel53.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel54.png" target="_blank">
+	  <img src="images/travel54.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel55.png" target="_blank">
+	  <img src="images/travel55.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel56.png" target="_blank">
+	  <img src="images/travel56.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel57.png" target="_blank">
+	  <img src="images/travel57.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel58.png" target="_blank">
+	  <img src="images/travel58.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel59.png" target="_blank">
+	  <img src="images/travel59.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel60.png" target="_blank">
+	  <img src="images/travel60.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel28.png" target="_blank">
+	  <img src="images/travel28.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel61.png" target="_blank">
+	  <img src="images/travel61.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel62.png" target="_blank">
+	  <img src="images/travel62.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel63.png" target="_blank">
+	  <img src="images/travel63.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel64.png" target="_blank">
+	  <img src="images/travel64.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel65.png" target="_blank">
+	  <img src="images/travel65.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel66.png" target="_blank">
+	  <img src="images/travel66.png" alt="" style="width:100%" ></a>
+	
+	
+  </div>
+	
+  <div class="column">
+	  <a href="images/travel71.png" target="_blank">
+     <img src="images/travel71.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel69.png" target="_blank">
+	  <img src="images/travel69.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel70.png" target="_blank">
+	   <img src="images/travel70.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel72.png" target="_blank">
+	  <img src="images/travel72.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel73.png" target="_blank">
+	  <img src="images/travel73.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel74.png" target="_blank">
+	  <img src="images/travel74.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel75.png" target="_blank">
+	  <img src="images/travel75.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel76.png" target="_blank">
+	  <img src="images/travel76.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel77.png" target="_blank">
+	  <img src="images/travel77.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel78.png" target="_blank">
+	  <img src="images/travel78.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel79.png" target="_blank">
+	  <img src="images/travel79.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel80.png" target="_blank">
+	  <img src="images/travel80.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel81.png" target="_blank">
+	  <img src="images/travel81.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel82.png" target="_blank">
+	  <img src="images/travel82.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel83.png" target="_blank">
+	  <img src="images/travel83.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel84.png" target="_blank">
+	  <img src="images/travel84.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel85.png" target="_blank">
+	  <img src="images/travel85.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel86.png" target="_blank">
+	  <img src="images/travel86.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel87.png" target="_blank">
+	  <img src="images/travel87.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel67.png" target="_blank">
+	  <img src="images/travel67.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel89.png" target="_blank">
+	  <img src="images/travel89.png" alt="" style="width:100%" ></a>
+	  
+	  <a href="images/travel90.png" target="_blank">
+	  <img src="images/travel90.png" alt="" style="width:100%" ></a>
+	 
+	  
+  </div>
+</div>
+
+	<br>
+	<br>
+
+
+<script>
+function myFunction(imgs) {
+  var expandImg = document.getElementById("expandedImg");
+  var imgText = document.getElementById("imgtext");
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = "block";
+}
+</script>
+
+	
+</body>
+</html>
