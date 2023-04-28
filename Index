@@ -1,0 +1,115 @@
+<html>
+<head>
+	<script>
+  if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+    window.location = "mobile.html";
+  }
+		
+
+</script>
+
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="main.css" rel="stylesheet" type="text/css">
+	
+	<link rel="stylesheet" href="https://use.typekit.net/oht5ori.css">
+	
+<title>Collective</title>
+	
+	<link rel="icon"  href="favicon.ico">
+	
+<meta charset="UTF-8">
+
+	<style>
+	.grab {cursor: -webkit-grab; cursor: grab;
+		}
+		
+		.homepage img {
+  opacity: 1; 
+  cursor: grab; 
+}
+		
+		.homepage img:hover {
+  opacity: 0.8;
+}
+	.caption {
+  opacity: 0;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: none;
+  color: white;
+  font-size: 12px;
+  text-align: center;
+  transition: opacity 0.2s ease;
+}
+
+.homepage:hover .caption {
+  opacity: 1;
+}
+		@media screen and (max-width: 760px) {
+  .homepage:first-of-type {
+    left: 5%;
+    top: 50%;
+  }
+}
+		
+		
+	</style>
+	
+</head>
+
+<body style= "background-color: black">
+	
+	
+<h1 class="grab" style="color:white; text-align: left;font-family:contralto-big; font-display:auto;font-style:oblique;font-weight:300;font-stretch:normal; font-size: 36px;padding-left: 30px">Collective</h1>
+	
+<div class="homepage" style= "position: absolute; left: 12%; top: 15%;">
+	<a href="manifesto.html">
+	<img class="grab" src="images/HOME4.jpg" alt="" width="25%" height="40%"></a>
+	<div  style="position: relative; left: 3%; top: 102%; width: 20%; color: white;font-family:indivisible; font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;font-size: 12px; text-decoration-line: none" class="caption">Manifesto</div>
+	</div> 
+	
+	<div class="homepage" style= "position: absolute; left: 35%; top: 12%;">
+	<a href="zine.html">
+	<img class="grab" src="images/HOME1.jpg" alt="" width="40%" height="40%"></a>
+		<div style="position: relative; left: 10%; top: 102%; width: 20%; text-decoration: none; color: white;font-family:indivisible; font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;font-size: 12px;" class="caption">Zine</div>
+	</div>
+	
+	<div class="homepage" style= "position: absolute; left: 67%; top: 8%;">
+	<a href="sites.html">
+	<img class="grab" src="images/HOME5.jpg" alt="" width="50%" height="50%"></a>
+		<div style="position: relative; left: 13%; top: 102%; width: 25%; text-decoration: none; color: white;font-family:indivisible; font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;font-size: 12px;" class="caption">Other Sites</div>
+	</div>
+	
+	<div class="homepage" style= "position: absolute; left: 15%; top: 65%;">
+	<a href="archive1.html">
+	<img class="grab" src="images/HOME3.jpg" alt="" width="31%" height="31%"></a>
+		<div style="position: relative; left: 10%; top: 102%; width: 12%; text-decoration: none; color: white;font-family:indivisible; font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;font-size: 12px;" class="caption">Vernacular Archive</div>
+	</div>
+	
+	<div class="homepage" style= "position: absolute; left: 43%; top: 45%;">
+	<a href="archive2.html">
+	<img class="grab" src="images/HOME6.jpg" alt="" width="25%" height="25%"></a>
+		<div style="position: relative; left: 2.5%; top: 102%;width: 20%; text-decoration: none; color: white;font-family:indivisible; font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;font-size: 12px;" class="caption">Portrait Card Archive</div>
+	</div>
+	
+	<div class="homepage" style= "position: absolute; left: 64%; top: 55%;">
+	<a href="archive3.html">
+	<img class="grab" src="images/HOME2.jpg" alt="" width="65%" height="65%">
+		</a>
+				 <div style="position: relative; left: 23%; top: 102%; width: 20%; text-decoration: none; color: white;font-family:indivisible; font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;font-size: 12px;" class="caption">Travel Archive</div>
+
+	</div>
+	
+	<div style= "text-align:right; position: absolute; bottom: 8pt; right: 20pt;"> 
+  <a class="grab" href="about.html" style=" text-decoration: none; color:white; font-family:contralto-big; font-display:auto;font-style:normal;font-weight:300;font-stretch:normal; font-size: 36px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px" align="right">?</a>
+    </div>
+	
+	
+</body>
+	
+	
+	
+</html>
