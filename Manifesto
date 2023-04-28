@@ -1,0 +1,57 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Manifesto</title>
+	<link href="main.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="https://use.typekit.net/oht5ori.css">
+		<link rel="icon"  href="favicon.ico">
+	
+	<style>
+	
+html { 
+  background: url("images/DESKTOPDESKTOP.png") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	background-color: black;
+}	
+	/* For width 400px and larger: */
+@media only screen and (max-device-width: 400px) {
+  html { 
+    background-image: url('images/MANIFESTOFORMOBILE.png'); 
+	
+  }
+}
+	
+	</style>
+	
+</head>
+
+<body>
+	<h1 style="color:white; text-align: left;font-family:contralto-big; font-display:auto;font-style:oblique;font-weight:300;font-stretch:normal; font-size: 36px;padding-left: 30px"><a style="text-decoration: none; color: white" href="index.html"> Collective </a></h1>
+	
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	
+	
+	
+</body>
+</html>
