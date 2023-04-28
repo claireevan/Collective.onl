@@ -1,0 +1,296 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+		<link rel="icon"  href="favicon.ico">
+<title>Zine</title>
+	
+	<link rel="stylesheet" href="https://use.typekit.net/oht5ori.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+	
+		* {box-sizing:border-box}
+
+
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+
+.mySlides {
+  display: none;
+}
+
+
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+		
+	</style>
+	
+	</head>
+	
+<body style="background-color:black;">
+	
+	<h1 style="color:white; text-align: left;font-family:contralto-big; font-display:auto;font-style:oblique;font-weight:300;font-stretch:normal; font-size: 36px;padding-left: 30px"><a style="text-decoration: none; color: white" href="index.html"> Collective </a></h1>
+	
+<div class="slideshow-container">
+	
+
+  <div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="images/slider1.jpg" style="width:100%" alt="">
+    <div class="text"></div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="images/slider2.jpg" style="width:100%" alt="">
+    <div class="text"></div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="images/slider3.jpg" style="width:100%" alt="">
+    <div class="text"></div>
+  </div>
+	
+	<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="images/slider4.jpg" style="width:100%" alt="">
+    <div class="text"></div>
+  </div>
+	
+	<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="images/slider5.jpg" style="width:100%" alt="">
+    <div class="text"></div>
+  </div>
+	
+	<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="images/slider6.jpg" style="width:100%" alt="">
+    <div class="text"></div>
+  </div>
+	
+	<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="images/slider7.jpg" style="width:100%" alt="">
+    <div class="text"></div>
+  </div>
+	
+	<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="images/slider8.jpg" style="width:100%" alt="">
+    <div class="text"></div>
+  </div>
+	
+	<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="images/slider9.jpg" style="width:100%" alt="">
+    <div class="text"></div>
+  </div>
+	
+	<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="images/slider10.jpg" style="width:100%" alt="">
+    <div class="text"></div>
+  </div>
+	
+	<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="images/slider11.jpg" style="width:100%" alt="">
+    <div class="text"></div>
+  </div>
+	
+	<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="images/slider12.jpg" style="width:100%" alt="">
+    <div class="text"></div>
+  </div>
+	
+	<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="images/slider13.jpg" style="width:100%" alt="">
+    <div class="text"></div>
+  </div>
+	
+	<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="images/slider14.jpg" style="width:100%" alt="">
+    <div class="text"></div>
+  </div>
+	
+	<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="images/slider15.jpg" style="width:100%" alt="">
+    <div class="text"></div>
+  </div>
+	
+	<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="images/slider16.jpg" style="width:100%" alt="">
+    <div class="text"></div>
+  </div>
+	
+	<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="images/slider17.jpg" style="width:100%" alt="">
+    <div class="text"></div>
+  </div>
+	
+	<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="images/slider18.jpg" style="width:100%" alt="">
+    <div class="text"></div>
+  </div>
+	
+	<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="images/slider19.jpg" style="width:100%" alt="">
+    <div class="text"></div>
+  </div>
+	
+	<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="images/slider20.jpg" style="width:100%" alt="">
+    <div class="text"></div>
+  </div>
+	
+	<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="images/slider21.jpg" style="width:100%" alt="">
+    <div class="text"></div>
+  </div>
+	
+	<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="images/slider22.jpg" style="width:100%" alt="">
+    <div class="text"></div>
+  </div>
+	
+	<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="images/slider23.jpg" style="width:100%" alt="">
+    <div class="text"></div>
+  </div>
+	
+	<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="images/slider24.jpg" style="width:100%" alt="">
+    <div class="text"></div>
+  </div>
+	
+	<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="images/slider25.jpg" style="width:100%" alt="">
+    <div class="text"></div>
+  </div>
+	
+	<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="images/slider26.jpg" style="width:100%" alt="">
+    <div class="text"></div>
+  </div>
+	
+	
+	
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+	<p style="color:white; text-align: center; font-family:indivisible; font-display:auto;font-style:italic;font-weight:400;font-stretch:normal; text-align: center">52 pages, 4.25 x 6.3in., coptic binding</p>
+	
+	<br>
+	<br>
+	<br>
+	
+	
+	<script>
+	
+		let slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1} 
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none"; 
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block"; 
+  dots[slideIndex-1].className += " active";
+}
+	
+	</script>
+	
+	</body>
+
+</html>
